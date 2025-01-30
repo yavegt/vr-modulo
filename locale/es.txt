@@ -1,0 +1,33 @@
+#: locale=es
+
+## Hotspot
+
+### Tooltip
+overlay_A3343FA6_B2D2_02A6_41E3_2ECAC464749B.toolTip = Información
+overlay_ADA6C27E_B352_FDA9_41C1_8165FC4CB6A0.toolTip = Recursos Humanos
+
+## Media
+
+### Subtítulos de Video
+
+### Título
+panorama_AE7AC470_B35E_05B9_41E6_0A43E0A9D71E.label = 5 Entrada Direccion
+panorama_BF503094_B2D2_1D79_41DC_97C5A82745AA.label = 6 Modulo
+video_AE5308E2_B372_0ED9_41E1_DFF6B14F7B74.label = Ale V3
+video_AECD5432_B372_05BE_41E5_EC7F749E97F2.label = Ale export V2
+video_BCBD433C_B2DE_03A9_41E0_E43EE61DC46C.label = Martha export
+
+### Video
+videolevel_A9A5C5CB_B2D2_06EF_41C4_EB9801D8D98C.url = media/video_AE5308E2_B372_0ED9_41E1_DFF6B14F7B74_es.mp4
+videolevel_A9A5C5CB_B2D2_06EF_41C4_EB9801D8D98C.posterURL = media/video_AE5308E2_B372_0ED9_41E1_DFF6B14F7B74_poster_es.jpg
+videolevel_A9A285F0_B2D2_06B9_41D5_E9E32D4DD9D3.url = media/video_AECD5432_B372_05BE_41E5_EC7F749E97F2_es.mp4
+videolevel_A9A285F0_B2D2_06B9_41D5_E9E32D4DD9D3.posterURL = media/video_AECD5432_B372_05BE_41E5_EC7F749E97F2_poster_es.jpg
+videolevel_A9A4358D_B2D2_076B_41D3_0840355670D3.url = media/video_BCBD433C_B2DE_03A9_41E0_E43EE61DC46C_es.mp4
+videolevel_A9A4358D_B2D2_076B_41D3_0840355670D3.posterURL = media/video_BCBD433C_B2DE_03A9_41E0_E43EE61DC46C_poster_es.jpg
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = Sin Título 1
